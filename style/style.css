@@ -53,7 +53,7 @@
 
 .article__title {
   font-size: 1.5rem;
-  color :hsl(0, 100%, 50%)
+  color :hsl(216, 100%, 50%)
 }
 
 .article__keywords {
@@ -62,6 +62,7 @@
 
 .article__presentation {
   font-size: 0.75rem;
+  color: rgb(255, 0, 0);
 }
 
 .article__presentation::before {
